@@ -1,3 +1,3 @@
 # MyScript
 this is not offical file.
-test
+this is an amazing file
